@@ -1,0 +1,179 @@
+#logopage{
+width:100%;
+height:60%;
+background-image: url("../Pictures/Background.jpg");
+background-size: 100% 100%;
+margin-bottom:0px;
+}
+
+.logo_text{
+padding:24% 0px 0px 0px;
+color: #f1ecec;
+font-size:55px;
+font-family: "Libre Baskerville";
+font-weight: 200;
+-webkit-text-stroke: 1px rgb(110, 94, 94);
+}
+
+#aboutpage{
+padding:0%;
+width:100%;
+height:30%;
+background-image: url("../Pictures/Canvas.png");
+background-size: 100% 100%;
+margin-bottom:0px;
+}
+
+#contactpage{
+padding:0%;
+width:100%;
+height:40%;
+background-image: url("../Pictures/Postbox.jpg");
+background-size: 100% 100%;
+margin-bottom:0px;
+}
+
+#whiteSection{
+padding:1%;
+width:100%;
+min-height: 270px;
+overflow:auto;
+background-color: white;
+font-family: "Libre Baskerville";
+}
+
+.Envelope_img{
+    padding-top: 20px;
+    height:110px;
+    width:170px;
+    background-position: center;
+    background-image: url("../Pictures/Envelope.png");
+    background-size:cover;
+    border-radius: 0%;
+    border: #545760 3px;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+.aboutthebuilding_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Unknown_person.png");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.facts_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Facts_image.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.firstPage_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/FirstPageImage.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.kvartersgarden_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/kvartersgarden.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.lekplatsen_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Lekplatsen.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.forradshuset_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Forradshuset.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.parkering_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Parkering.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.sophuset_img{
+    height:250px;
+    width:250px;
+    background-position: center;
+    background-image: url("../Pictures/Sophuset.JPG");
+    background-size:cover;
+    border-radius: 50%;
+    border: #545760 3px double;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+.abouthebuilding_text{
+    padding:6px 0px 0px 0px;
+    color: #494444;
+    font-size:18px;
+    font-family: "Libre Baskerville";
+    font-weight: 200;
+}
+
+#greySection{
+padding-left:15px;
+padding-top:15px;
+width:100%;
+overflow: auto;
+background-size: 100% 100%;
+background-color: #efefef;
+font-family: "Libre Baskerville";
+}
+
+#greySection ul li{
+ list-style:none;
+}
+
+
+
